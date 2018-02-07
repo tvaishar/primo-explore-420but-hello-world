@@ -1,11 +1,10 @@
 {
-	"name":				"420BUT",
+	"name":				"420BUT_Primo_NUI",
 	"version":			"0.0.1",
 	"description":		"Brno university of technology Primo NUI package",
 	"author":			"Antonín Vaishar <vaishar@lib.vutbr.cz>",
 	"license":			"CC-BY-NC-4.0",
-	"repository":		"github:tvaishar/primo-explore-hello-world-demo",
 	"devDependencies":	{
-							"primo-explore-hello-world-demo":"0.0.1"
+							"420BUT_Primo_NUI":"0.0.1"
 						}
 }

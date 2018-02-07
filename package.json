@@ -4,7 +4,8 @@
 	"description":		"Brno university of technology Primo NUI package",
 	"author":			"Antonín Vaishar <vaishar@lib.vutbr.cz>",
 	"license":			"CC-BY-NC-4.0",
+	"repository":		"github:tvaishar/420but-primo-nui",
 	"devDependencies":	{
-							"420but-primo-nui":"tvaishar/420but-primo-nui"
+							"420but-primo-nui": "github:tvaishar/420but-primo-nui"
 						}
 }

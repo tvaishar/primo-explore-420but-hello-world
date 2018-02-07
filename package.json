@@ -5,6 +5,6 @@
 	"author":			"Antonín Vaishar <vaishar@lib.vutbr.cz>",
 	"license":			"CC-BY-NC-4.0",
 	"devDependencies":	{
-							"420but_primo_nui":"0.0.1"
+							"420but-primo-nui":"0.0.1"
 						}
 }

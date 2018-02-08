@@ -1,4 +1,4 @@
  app.component('prmLogoAfter', {
-		bindings: {},
-        template: `<span style="margin-left: 40%;">Hello World</span>`
+		bindings: { },
+        template: `<div class='hello-world'><span>Hello World</span></div>`
  });

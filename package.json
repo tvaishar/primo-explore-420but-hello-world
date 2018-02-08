@@ -1,11 +1,7 @@
 {
-	"name":				"420BUT",
+	"name":				"primo-explore-420but-hello-world",
 	"version":			"0.0.1",
-	"description":		"Brno university of technology Primo NUI package",
+	"description":		"Hello world test app",
 	"author":			"Antonín Vaishar <vaishar@lib.vutbr.cz>",
-	"license":			"CC-BY-NC-4.0",
-	"repository":		"github:tvaishar/420but-primo-nui",
-	"devDependencies":	{
-							"420but-primo-nui": "github:tvaishar/420but-primo-nui"
-						}
+	"license":			"CC-BY-NC-4.0"
 }

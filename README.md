@@ -1,2 +1,2 @@
 # primo-explore-hello-world-demo
-test hello world javascript + github/npm integrace
+test of _hello world_ javascript + github/npm integration
